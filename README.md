@@ -1,1 +1,2 @@
 # shoppingweb
+# members: 
